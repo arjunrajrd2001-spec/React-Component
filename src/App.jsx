@@ -14,7 +14,7 @@ function App(){
 function Demo(){
   return(
     <>
-    <h1>welcome</h1>
+    <h1>welcome  santhosh</h1>
     <h2>This is Another Function</h2>
     <img src={Logo} alt="" />
      <img src={Logo} alt="" />
